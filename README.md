@@ -7,3 +7,5 @@ IPL app using core java
 
 - Create class by name team
 - Create a method by name printTeam
+- Create the Teams class object and initialize
+- call the printmethod from main method
