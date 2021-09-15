@@ -4,7 +4,9 @@ public class IPLapp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("*** Starting IPL APP ***");
+		System.out.println("*** Starting IPL APP ***");
+		Team rcbTeam = new Team();
+		rcbTeam.printTeams();
 	}
 
 }
